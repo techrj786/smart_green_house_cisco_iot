@@ -14,7 +14,7 @@ This project is built and simulated using Cisco Packet Tracer, incorporating IoT
 
 ## 📸 Project Image
 
-![Smart Greenhouse Simulation](./path/to/your/image.png)
+![Smart Greenhouse Simulation](smart_green_house.png)
 
 *Replace the above line with the actual path to your project image after uploading it to your repository.*
 
