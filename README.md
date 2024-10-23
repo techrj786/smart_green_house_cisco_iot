@@ -16,8 +16,6 @@ This project is built and simulated using Cisco Packet Tracer, incorporating IoT
 
 ![Smart Greenhouse Simulation](smart_green_house.png)
 
-*Replace the above line with the actual path to your project image after uploading it to your repository.*
-
 ## 🌟 Features
 
 1. **Water Sprinkler for Smart Irrigation**:
@@ -95,7 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 - Cisco Packet Tracer for providing an excellent tool for IoT simulation.
 - Inspiration from automated greenhouse systems, smart irrigation, temperature monitoring, and fire safety mechanisms.
-
----
-
-*Feel free to reach out for any questions or further clarifications!*
