@@ -48,7 +48,7 @@ To simulate and run this project, follow these steps:
 2. **Clone the Repository**:
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/yourusername/smart-greenhouse.git
+     git clone https://github.com/yourusername/smart_green_house_cisco_iot.git
      ```
 
 3. **Open the Project in Cisco Packet Tracer**:
@@ -74,7 +74,7 @@ To simulate and run this project, follow these steps:
 
 ## 🖥️ Project Structure
 
-- `smart-greenhouse.pkt`: The Cisco Packet Tracer project file.
+- `Samrt_green_house_01.pkt`: The Cisco Packet Tracer project file.
 - `README.md`: Project documentation.
 - `images/`: Directory for project images and screenshots (add your project image here).
 
